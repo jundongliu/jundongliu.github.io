@@ -1,0 +1,27 @@
+.website_header{
+	background-image: url(../image/elephant.jpg)
+	height:600px;
+	width: 100px
+	background-size: 100% 100%;
+	color:white;
+}
+
+.navbar-default{
+	margin-bottom: 10px;
+
+}
+
+.header_elephant{
+	height: 200px;
+	border-width: 3px;
+	border-style: dashed;
+	border-radius: 30px;
+	border-color: yellow;
+}
+
+.link1_header{
+	height:250px;
+	width: 100px
+	background-size: 100% 100%;
+	color:black;
+}
